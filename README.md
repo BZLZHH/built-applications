@@ -1,1 +1,1 @@
-# built-applications
+**A repository to share some built applications.**
